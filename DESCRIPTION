@@ -1,0 +1,10 @@
+Package: FunctionalResponse
+Type: Package
+Title: Calculates the parameters of a predator functional response
+Version: 0.1
+Date: 2015-10-13
+Authors@R: person("Melissa", "Guzman", email = "guzman@zoology.ubc.ca", role = c("aut", "cre"))
+Description: This package can be used to find the shape of a functional response of a predator. It calculates the attack rate, handling time and type of functional response. It can be used to compare between two treatments.
+License: What license is it under?
+LazyData: TRUE
+Depends: R (>= 3.0.0), stats4, bbmle, emdbook, deSolve
