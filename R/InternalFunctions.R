@@ -69,6 +69,7 @@ NLL.oneT = function(b, q, h, T = 4, P = 1) {
 
 
 
+
 ##### FULL MODEL TWO TREATMENTS ####
 
 ## Likelyhood function for two treatment scenario. Induced treatment == 0
